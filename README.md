@@ -11,8 +11,8 @@ Open a terminal and run:
 wget -qO- https://github.com/SlowPeekin/pc-files-download/releases/latest/download/pcfiles-linux.tar.gz | tar xz && bash pcfiles-linux/install.sh
 ```
 
-The app then opens. In Settings, enter the PC's network IP, your Windows
-sign-in name and password, and press Connect.
+The app then opens. Press **Find my PC**, click Yes on the PC when both show
+the same 6-digit code, and enter your Windows password.
 
 ## Updates
 
